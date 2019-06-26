@@ -1,3 +1,5 @@
+This repo holds the original version from codesandbox. Final version is in the fronk-d3 repo.
+
 Working example at https://codesandbox.io/s/github/bletcher/genArt-Frokonstin/tree/master/
 
 
